@@ -1,0 +1,30 @@
+theme = "lynx"
+title = "Casa Gaviota Barú"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Casa Gaviota Barú"
+  headline = "A tropical house by the sea on the Colombian Caribbean🏝"
+  image = "casagaviotalogo.jpeg"
+  links = [
+    { airbnb-brands = { href = "https://airbnb.com/rooms/181129", text = "AirBnB (Our Favorite)", icon = "airbnb-brands" } },
+    { link = { href = "https://www.booking.com/hotel/co/caribbean-beach-house.es.html", text = "Booking", icon = "booking" } },
+    { calendar = { href = "https://app.hosthub.com/rentals/136749", text = "Calendar(io)", icon = "calendar" } },
+    { whatsapp = { href = "https://wa.link/iz61si", text = "Book via Whatsapp", icon = "whatsapp" } },
+    { instagram = "https://instagram.com/casagaviotabaru" },
+    { link = { href = "https://photos.app.goo.gl/5aWbtyiE6hkKVnCU6", text = "Photos", icon = "photo-film-solid" } },
+
+
+    { link = { href = "styles/", text = "All the link styles", target = "_self" } },
+    { github = "https://github.com/jpanther/lynx" },
+    { font-awesome = { href = "https://fontawesome.com/", text = "FontAwesome" } },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
