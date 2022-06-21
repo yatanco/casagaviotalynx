@@ -1,6 +1,6 @@
 theme = "lynx"
 title = "Casa Gaviota Barú"
-
+googleAnalytics = 'G-YCRQRM6R43'
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
