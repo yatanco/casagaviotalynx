@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Frequently Asked Questions - FAQ"
 description: "Frequently asked questions from our guests."
 # featured_image: '/images/house.webp'
 menu:
@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-1. How do I pay the rent and deposit?
+## 1. How do I pay the rent and deposit?
 
 Direct reservation (whatsapp, instagram): 
 
@@ -16,16 +16,17 @@ Direct reservation (whatsapp, instagram):
 
 Booking: 
 
-- Booking does not handle payments in Colombia (even if they have taken your credit card) so we ask for a deposit by bank transfer or paypal.
-- The rental can be paid in cash or by credit card at Casa Gaviota.
-- AirBnB: The payment and deposit is handled by AirBnB.
+- Booking does not handle payments in Colombia (even if they have taken your credit card) so we ask for a deposit by bank transfer or payment link.
+- The rest can be paid in cash or by credit card at Casa Gaviota.
 
-2. How does the cooking and cleaning service work? 
+AirBnB: The payment and deposit is handled by AirBnB.
 
-- Up to 5 people we include an employee to clean and cook.
+## 2. How does the cooking and cleaning service work? 
+
+- Up to 5 people we include one employee to clean and cook.
 - For more than 6 people a second maid is required at a cost of 50.000 pesos per day.
 
-3. What options are there for transportation?
+## 3. What options are there for transportation?
 
 - Option 1: Private transportation, car and boat.
 
@@ -41,18 +42,18 @@ The total cost door to door incl. Taxi and boat is 700.000COP one way, i.e. 1.40
 You organize your own transportation by boat or car+boat.
 To get to the house tell the boatman "Casa Gaviota, Barui Beach House, in Punta Blanca, where Manuel " the last piece always has to be by boat.
 
-4. What to bring, what is there?
+## 4. What to bring, what is there?
 
 - There is water for personal hygiene and sheets/towels in the house.
 - Shopping - including drinking water and food is recommended to do in Cartagena as it is cheaper and there is more variety, our assistant or driver will accompany you.
 - Nearby there is a hotel with food and wifi called Baru Playa Eco Hotel.
 - The nearest store is in Baru town, 20 minutes walk or 10 minutes by boat.
 
-5. Do you have Wi-Fi there?
+## 5. Do you have Wi-Fi there?
 
 - We have good quality wi-fi, if anything happens there is the Baru Playa hotel which also has good internet.
 
-6. What activities can I do in the surroundings?
+## 6. What activities can I do in the surroundings?
 
 - You can rent a boat to go to all the islands of the rosario to go snorkeling.
 - Go to the Aquarium or the Aviary which are very beautiful.
