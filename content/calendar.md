@@ -9,5 +9,5 @@ menu:
 
 {{< rawhtml >}}
 <br>
-<iframe style="width: 100%; height: 100%; overflow: hidden;" src="https://app.hosthub.com/rentals/136749" width="100" height="100" scrolling="no">Iframes not supported</iframe>
+<iframe style="width: 100%; height: 100%; overflow: show;" src="https://app.hosthub.com/rentals/136749" width="100" height="100" scrolling="yes">Iframes not supported</iframe>
 {{< /rawhtml >}}
