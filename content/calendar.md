@@ -9,6 +9,5 @@ menu:
 
 {{< rawhtml >}}
 <br>
-<iframe src="https://app.hosthub.com/rentals/136749" style="border:0px #ffffff none;" name="HostHub Calendar" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="90%" allowfullscreen></iframe>
-
+<div class="iframe-container"><iframe loading="lazy" src="https://app.hosthub.com/rentals/136749"></iframe></div>
 {{< /rawhtml >}}
