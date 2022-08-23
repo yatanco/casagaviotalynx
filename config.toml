@@ -9,10 +9,10 @@ disableKinds = ["taxonomy", "term"]
   headline = "A tropical house by the sea on the Colombian Caribbean🏝"
   image = "casagaviotalogo.jpeg"
   links = [
-    { airbnb-brands = { href = "https://airbnb.com/rooms/181129", text = "AirBnB (Our Favorite)", icon = "airbnb-brands" } },
+    { airbnb-brands = { href = "airbnb.html", text = "AirBnB", icon = "airbnb-brands" } },
     { booking = { href = "https://www.booking.com/hotel/co/caribbean-beach-house.es.html", text = "Booking", icon = "booking" } },
-    { calendar = { href = "https://app.hosthub.com/rentals/136749", text = "Calendar(io)", icon = "calendar" } },
-    { whatsapp = { href = "https://wa.link/gb6c7q", text = "Book via Whatsapp", icon = "whatsapp" } },
+    { calendar = { href = "calendar.html", text = "Calendar(io)", icon = "calendar" } },
+    { whatsapp = { href = "whatsapp.html", text = "Book via Whatsapp", icon = "whatsapp" } },
     { instagram = "https://instagram.com/casagaviotabaru" },
     { link = { href = "https://photos.app.goo.gl/5aWbtyiE6hkKVnCU6", text = "Photos", icon = "photo-film-solid" } },
     { link = { href = "/faqen", text = "Frequently Asked Questions", icon = "booking" } },
