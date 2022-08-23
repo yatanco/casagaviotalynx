@@ -10,11 +10,11 @@ disableKinds = ["taxonomy", "term"]
   image = "casagaviotalogo.jpeg"
   links = [
     { airbnb-brands = { href = "airbnb.html", text = "AirBnB", icon = "airbnb-brands" } },
-    { booking = { href = "https://www.booking.com/hotel/co/caribbean-beach-house.es.html", text = "Booking", icon = "booking" } },
+    { booking = { href = "booking.html", text = "Booking", icon = "booking" } },
     { calendar = { href = "calendar.html", text = "Calendar(io)", icon = "calendar" } },
     { whatsapp = { href = "whatsapp.html", text = "Book via Whatsapp", icon = "whatsapp" } },
-    { instagram = "https://instagram.com/casagaviotabaru" },
-    { link = { href = "https://photos.app.goo.gl/5aWbtyiE6hkKVnCU6", text = "Photos", icon = "photo-film-solid" } },
+    { instagram = "instagram.html" },
+    { link = { href = "photos.html", text = "Photos", icon = "photo-film-solid" } },
     { link = { href = "/faqen", text = "Frequently Asked Questions", icon = "booking" } },
     { link = { href = "/faqes", text = "Preguntas Frecuentes", icon = "booking" } },
 
