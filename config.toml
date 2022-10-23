@@ -9,12 +9,12 @@ disableKinds = ["taxonomy", "term"]
   headline = "A tropical house by the sea on the Colombian Caribbean🏝"
   image = "casagaviotalogo.jpeg"
   links = [
+    { calendar = { href = "calendar.html", text = "Calendar(io)", icon = "calendar" } },
+    { whatsapp = { href = "https://wa.link/nuyeda", text = "Book via Whatsapp", icon = "whatsapp" } },
+    { link = { href = "photos.html", text = "Photos", icon = "photo-film-solid" } },
     { airbnb-brands = { href = "airbnb.html", text = "AirBnB", icon = "airbnb-brands" } },
     { booking = { href = "booking.html", text = "Booking", icon = "booking" } },
-    { calendar = { href = "calendar.html", text = "Calendar(io)", icon = "calendar" } },
-    { whatsapp = { href = "whatsapp.html", text = "Book via Whatsapp", icon = "whatsapp" } },
     { instagram = "instagram.html" },
-    { link = { href = "photos.html", text = "Photos", icon = "photo-film-solid" } },
     { link = { href = "/faqen", text = "Frequently Asked Questions", icon = "booking" } },
     { link = { href = "/faqes", text = "Preguntas Frecuentes", icon = "booking" } },
 
