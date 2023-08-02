@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
     { instagram = "instagram.html" },
     { link = { href = "/faqen", text = "Frequently Asked Questions", icon = "booking" } },
     { link = { href = "/faqes", text = "Preguntas Frecuentes", icon = "booking" } },
-    { link = { href = "/menus", text = "Food Menu / Menu de Comifas", icon = "food" } },
+    { link = { href = "/menus", text = "Food Menu / Menu de Comidas", icon = "food" } },
 
 
   ]
